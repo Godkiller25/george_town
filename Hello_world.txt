@@ -1,6 +1,6 @@
-print("Hello World")
-print("Hello everybody")
-print("Sasay Lalka")
-print("ne nado")'
-print("Fuck off, dude")
-Print("i`m sorry, it`s not my fault")
+print("Hello World;")
+print("Hello everybody;")
+print("Sasay Lalka;")
+print("ne nado;")'
+print("Fuck off, dude;")
+Print("i`m sorry, it`s not my fault;")
